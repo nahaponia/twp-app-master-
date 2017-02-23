@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[DBCameraBaseCropViewController reset:]:DBCameraBaseCropViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.initialImageFrame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DBCameraCropView setCropRect:]:DBCameraCropView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "CGRectGetHeight(self.frame)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DBCameraBaseCropViewController cropRect]:DBCameraBaseCropViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frameView.cropRect">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__31-[ShareViewController onShare:]_block_invoke:ShareViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "object">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__58-[SearchViewController tableView:didSelectRowAtIndexPath:]_block_invoke:SearchViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.navigationcontroller">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DBCameraBaseCropViewController viewDidLoad]:DBCameraBaseCropViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frameView">
+            </PersistentString>
+            <PersistentString
+               value = "self.imageView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

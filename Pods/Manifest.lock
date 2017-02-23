@@ -1,0 +1,53 @@
+PODS:
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - Crashlytics (3.7.2):
+    - Fabric (~> 1.6.3)
+  - DBCamera (2.4.1):
+    - GPUImage (~> 0.1)
+  - Fabric (1.6.7)
+  - FBSDKCoreKit (4.18.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.18.0):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.18.0):
+    - FBSDKCoreKit
+  - GPUImage (0.1.7)
+  - Parse (1.14.2):
+    - Bolts/Tasks (~> 1.8)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - Stripe (8.0.2)
+
+DEPENDENCIES:
+  - Crashlytics
+  - DBCamera (~> 2.4)
+  - Fabric
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - FBSDKShareKit
+  - Parse
+  - SDWebImage
+  - Stripe
+
+SPEC CHECKSUMS:
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  Crashlytics: 130ab943f8c78cda7a814b434f270b2e2c8a3cba
+  DBCamera: 7a4343a541e1264610f9f33176552b93170a843e
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  FBSDKCoreKit: 15fef8804a4629f98c6f4e55e81a76c9d725d85e
+  FBSDKLoginKit: 6773073e970b2b15fb12e451ce7f11da0532b880
+  FBSDKShareKit: 0b8d6cc3f103c75297eb3c62caec284a2ccf1b9e
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  Parse: 4335d65f40cb3d43190d723144bbe1afb9c38230
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  Stripe: 3dfcde17037996e00db0a2f6dbfdedb7ad2ae55b
+
+PODFILE CHECKSUM: 17e88386923f544584560e823c940e40049ab441
+
+COCOAPODS: 1.0.1

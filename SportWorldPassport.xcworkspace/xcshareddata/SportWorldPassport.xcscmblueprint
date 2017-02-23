@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1a20c714-f917-b940-bf1e-70b2be78cc78++8076",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "1a20c714-f917-b940-bf1e-70b2be78cc78++8076" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1a20c714-f917-b940-bf1e-70b2be78cc78++8076" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BBF6B896-4C1E-4F49-BA39-386367BAB874",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1a20c714-f917-b940-bf1e-70b2be78cc78++8076" : "SportWorldPassport\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SportWorldPassport",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SportWorldPassport.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/pd1-srv.hanayonghe.com:81\/svn\/PAKIH_Job",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1a20c714-f917-b940-bf1e-70b2be78cc78++8076"
+    }
+  ]
+}

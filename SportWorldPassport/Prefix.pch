@@ -1,0 +1,38 @@
+//
+//  SportWorldPassport-Prefix.pch
+//  SportWorldPassport
+//
+//  Created by star on 7/6/15.
+//  Copyright (c) 2015 UWP. All rights reserved.
+//
+
+#ifndef SportWorldPassport_SportWorldPassport_Prefix_pch
+#define SportWorldPassport_SportWorldPassport_Prefix_pch
+
+#import <UIKit/UIKit.h>
+
+#import <Parse/Parse.h>
+
+#import "AppConfig.h"
+#import "CommonUtils.h"
+#import "MBProgressHUD.h"
+
+#import "Model.h"
+
+#import "RootViewController.h"
+
+
+#import "NormalButton.h"
+#import "CircleImageView.h"
+
+//#import "RoundImageView.h"
+//#import "RoundLabel.h"
+//#import "HexagonImageView.h"
+//
+//#import "Model/Model.h"
+#import "ParseUtils.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
